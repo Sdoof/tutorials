@@ -160,7 +160,7 @@ tensorflow==2.5.0
 testpath==0.3
 Theano==0.9.0
 toolz==0.8.2
-tornado==4.5.1
+tornado==6.5.1
 traitlets==4.3.2
 unicodecsv==0.14.1
 uritemplate==3.0.0
