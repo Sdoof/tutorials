@@ -63,7 +63,7 @@ jupyter==1.0.0
 jupyter-client==5.0.1
 jupyter-console==5.1.0
 jupyter-core==4.3.0
-Keras==2.0.6
+Keras==3.12.0
 lazy-object-proxy==1.2.2
 llvmlite==0.18.0
 locket==0.2.0
